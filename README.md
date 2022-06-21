@@ -1,1 +1,1 @@
-# zuri-django-crud
+#An app demonstrating simple CRUD using Django's class based views.
